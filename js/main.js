@@ -79,7 +79,7 @@ $(document).ready(function() {
   
     $(function() {
       typed.typed({
-        strings: ["Aiyuan Li", "Junior student.", "Developer.", "Chinese", "Chic"],
+        strings: ["Aiyuan Li", "Junior student", "Developer", "Chinese", "photographer"],
         typeSpeed: 100,
         loop: true,
       });
